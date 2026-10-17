@@ -27,3 +27,4 @@ The modular structure allows easy future enhancements such as analytics dashboar
 
 Objective:
 To provide an intelligent, paperless, and user-friendly system that enhances productivity and decision-making in educational institutions.
+http://127.0.0.1:8000/
